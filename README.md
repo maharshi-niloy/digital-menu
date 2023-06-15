@@ -1,6 +1,7 @@
 # Download and Installation
-Download ZIP under the code section and extract the files.
-Then to start the project type in the terminal ### `npm start`
+Download ZIP under the code section and extract the files.\
+Then to download the packages type in the terminal `npm i`\
+Then to start the project type in the terminal `npm start`
 
 # Getting Started with Create React App
 
