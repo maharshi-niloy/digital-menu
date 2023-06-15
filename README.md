@@ -1,3 +1,7 @@
+# Download and Installation
+Download ZIP under the code section and extract the files.
+Then to start the project type in the terminal ### `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
