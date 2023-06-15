@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "Pepsi",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 10,
+        "img" : "https://www.eatthis.com/wp-content/uploads/sites/4/2023/02/pepsi-can-bottle-ice.jpg?quality=82&strip=1",
+        "category" : "Beverages",
+        "dietary" : "Dairy-Free",
+        "ingred" : "Water, Sugar",
+        "prepTime" : "ready made"
+    },
+    {
+        "name" : "Pizza",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 45,
+        "img" : "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/10/17/pizza.jpg.transform/schema-16x9/image.jpg",
+        "category" : "Main Courses",
+        "dietary" : "Vegan",
+        "ingred" : "Bread, Garlic, Sausage",
+        "prepTime" : "15 minutes"
+    },
+    {
+        "name" : "Sushi",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 110,
+        "img" : "https://img.taste.com.au/3mYHXsD_/taste/2016/11/sushi-for-kids-81300-1.jpeg",
+        "category" : "Desserts",
+        "dietary" : "Gluten-Free",
+        "ingred" : "Fish, Rice",
+        "prepTime" : "20 minutes"
+    },
+    {
+        "name" : "Sandwich",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 30,
+        "img" : "https://images.pexels.com/photos/1600711/pexels-photo-1600711.jpeg?cs=srgb&dl=pexels-rajesh-tp-1600711.jpg&fm=jpg",
+        "category" : "Appetizers",
+        "dietary" : "Gluten-Free",
+        "ingred" : "Bread, Egg, Cucumber, Mayonaise",
+        "prepTime" : "8 minutes"
+    },
+    {
+        "name" : "Noodles",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 50,
+        "img" : "https://thumbs.dreamstime.com/b/asian-noodles-meal-made-instant-shiitake-mushrooms-traditional-oriental-food-close-up-68378279.jpg",
+        "category" : "Main Courses",
+        "dietary" : "Vegan",
+        "ingred" : "Wheat, Egg, Cucumber, Cheese",
+        "prepTime" : "5 minutes"
+    },
+    {
+        "name" : "Pasta",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 55,
+        "img" : "https://recipes.timesofindia.com/thumb/84784534.cms?width=1200&height=900",
+        "category" : "Appetizers",
+        "dietary" : "Dairy-Free",
+        "ingred" : "Wheat, Garlic, Cheese",
+        "prepTime" : "16 minutes"
+    },
+    {
+        "name" : "Laddu",
+        "desc" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur commodi aspernatur rem excepturi neque qui unde, velit odit maxime consectetur aliquam architecto reprehenderit eligendi eos ratione dolore labore aliquid culpa.",
+        "price" : 75,
+        "img" : "https://cdn.tasteatlas.com/Images/Dishes/6610f979d023438f94688e9e9ae951bb.jpg?m=facebook",
+        "category" : "Desserts",
+        "dietary" : "Dairy-Free",
+        "ingred" : "Honey, Sweetpea",
+        "prepTime" : "40 minutes"
+    }
+]
